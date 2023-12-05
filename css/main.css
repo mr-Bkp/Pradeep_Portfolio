@@ -27,3 +27,12 @@ button{
     height: 40px;
     align-self: center;
 }
+
+.cantact{
+    margine:10%;
+    color:sky_bule;
+    position:relative;
+    width:600px;
+    height:800px;
+    
+}
